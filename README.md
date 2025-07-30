@@ -73,33 +73,6 @@ users
 
 categories
 
-📈 Future Enhancements
-🤖 AI-based tailoring suggestions
-
-📸 Image-based material upload with cropping support
-
-💬 In-app chat support between tailor and customer
-
-💵 Integration with payment gateway (Razorpay/Stripe)
-
-🧑‍💻 How to Run
-Clone the repository
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/stitchcraft-pro.git
-Open in Android Studio
-
-Connect to your Firebase project (update google-services.json)
-
-Build and run on your emulator or Android device
-
-🙌 Credits
-Developed by [Your Name]
-Final Year Android Project – 2025
-Department of Computer Science
-
 📃 License
 This project is licensed under the MIT License.
 
